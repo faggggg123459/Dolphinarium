@@ -40,6 +40,50 @@
    <td> Більш детально знайомитися можна в наступному сайті.   </td>
    
   </table>
+  <style>    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .news-container {
+    padding: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .table img {
+    max-width: 100px;
+    max-height: 100px;
+    display: block;
+    margin: 0 auto;
+  }
+   
+  
+  
+  </style>
   
 </div>
 
