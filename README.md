@@ -33,14 +33,8 @@
         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-cGrEjpbqjVfnezYGuPrFrBFAnZ7irhj0Ug&s" alt="Новина 2"></td>
         <td>День народження дельфіна Сніжинки</td>
         <td>Сьогодні відзначаємо день народження нашої найстарішої мешканки, дельфіна Сніжинки! Приходьте з нами святкувати цей особливий день разом з нашою командою.</td>
-      </tr>
-    </tbody>
-  </table>
-  <table> 
-   <td> Більш детально знайомитися можна в наступному сайті.   </td>
-   
-  </table>
-  <style>    body {
+      </tr>   
+      <style> body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -80,10 +74,14 @@
     display: block;
     margin: 0 auto;
   }
+      </style>
+    </tbody>
+  </table>
+  <table> 
+   <td> Більш детально знайомитися можна в наступному сайті.   </td>
    
-  
-  
-  </style>
+  </table>
+
   
 </div>
 
