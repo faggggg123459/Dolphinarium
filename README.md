@@ -34,47 +34,7 @@
         <td>День народження дельфіна Сніжинки</td>
         <td>Сьогодні відзначаємо день народження нашої найстарішої мешканки, дельфіна Сніжинки! Приходьте з нами святкувати цей особливий день разом з нашою командою.</td>
       </tr>   
-      <style> body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  header {
-    background-color: #007bff;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  .news-container {
-    padding: 20px;
-  }
-  
-  .table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-  }
-  
-  .table th, .table td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  
-  .table th {
-    background-color: #007bff;
-    color: #fff;
-  }
-  
-  .table img {
-    max-width: 100px;
-    max-height: 100px;
-    display: block;
-    margin: 0 auto;
-  }
-      </style>
+     
     </tbody>
   </table>
   <table> 
